@@ -15,7 +15,7 @@ main()
     cout<<"This is the last one: "<<endl;
     cin>>number3;
 
-    cout<<"Thanks for the patience, this is the resulting sum: "total;
+    cout<<"Thanks for the patience, this is the resulting sum: "<<total;
     
     return 0;
 }
